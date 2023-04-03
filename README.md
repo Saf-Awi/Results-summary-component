@@ -11,11 +11,12 @@ This is a solution to the [Results summary component challenge on Frontend Mento
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-  - [Author](#author)
+- [Author](#author)
 
 
 
 ## Overview
+Hello Everyone, This is my solution to the frontend mentor challenge "Result Summary Component".
 
 ### The challenge
 
@@ -27,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Saf-Awi/Results-summary-component)
-- Live Site URL: (http://localhost:8080/results-summary-component-main/index.html)
+- Solution URL: [Solution](https://github.com/Saf-Awi/Results-summary-component)
+- Live Site URL: [Live Site](https://saf-awi.github.io/Results-summary-component/)
 
 ## My process
 
@@ -48,10 +49,5 @@ Users should be able to:
 - (https://www.w3schools.com/Css/) - This website is amazing for CSS information 
 
 ### Author 
-Github - [Safa Al-Hilo](https://github.com/Saf-Awi)
-Frontend Mentor - @Saf-Awi
-
-
-
-
-
+- Github - [Safa Al-Hilo](https://github.com/Saf-Awi)
+- Frontend Mentor - @Saf-Awi
